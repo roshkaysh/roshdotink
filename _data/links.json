@@ -1,0 +1,618 @@
+[
+  {
+    "title": "If you have multiple interests",
+    "url": "https://letters.thedankoe.com/p/if-you-have-multiple-interests-do",
+    "date": "2024-03-25",
+    "tags": ["article", "productivity", "focus"],
+    "description": "Advice on managing polymathic interests and multi-potentiality."
+  },
+  {
+    "title": "Books and screens - and the design problem",
+    "url": "https://aeon.co/essays/what-we-think-is-a-decline-in-literacy-is-a-design-problem",
+    "date": "2024-03-25",
+    "tags": ["essay", "literacy", "design", "technology"],
+    "description": "An exploration of how digital design impacts our ability to read and process information."
+  },
+  {
+    "title": "The Adolescence of Technology",
+    "url": "https://www.darioamodei.com/essay/the-adolescence-of-technology#1-i-m-sorry-dave",
+    "date": "2024-03-25",
+    "tags": ["essay", "ai", "philosophy", "safety"],
+    "description": "Dario Amodei on the current state and future trajectory of AI development."
+  },
+  {
+    "title": "Your Goal Isn’t Really to Get a Job",
+    "url": "https://thatvastvariety.substack.com/p/your-goal-isnt-really-to-get-a-job",
+    "date": "2024-03-25",
+    "tags": ["article", "career", "mindset"],
+    "description": "Reframing the search for employment toward finding purpose and value."
+  },
+  {
+    "title": "Why We Stay in Rooms We Should Leave",
+    "url": "https://museguided.substack.com/p/why-we-stay-in-rooms-we-should-leave",
+    "date": "2024-03-25",
+    "tags": ["article", "psychology", "relationships", "growth"],
+    "description": "A reflection on the psychological inertia that keeps us in stagnant situations."
+  },
+  {
+    "title": "Radio Garden",
+    "url": "https://radio.garden/visit/konstanz/yiBjAWyO#google_vignette",
+    "date": "2024-03-25",
+    "tags": ["website", "music", "exploration", "interactive"],
+    "description": "An interactive map allowing users to listen to live radio stations globally."
+  },
+  {
+    "title": "Jmail",
+    "url": "https://www.jmail.world",
+    "date": "2024-03-25",
+    "tags": ["website", "politics", "archive", "ui"],
+    "description": "The Epstein files presented in a familiar Gmail-style interface."
+  },
+  {
+    "title": "Moebio",
+    "url": "https://moebio.com",
+    "date": "2024-03-25",
+    "tags": ["website", "data-viz", "design", "art"],
+    "description": "A collection of data visualization and generative art projects."
+  },
+  {
+    "title": "This is not a pipe ~Magritte (Language and Thought)",
+    "url": "https://timsey.substack.com/p/does-language-shape-thought-from",
+    "date": "2024-03-25",
+    "tags": ["article", "philosophy", "linguistics"],
+    "description": "An exploration of whether the language we speak shapes the way we think."
+  },
+  {
+    "title": "3 philosophical debates that neuroscience is reshaping",
+    "url": "https://bigthink.com/thinking/3-philosophical-questions-of-the-20th-century-that-neuroscience-is-reframing/",
+    "date": "2024-03-25",
+    "tags": ["article", "neuroscience", "philosophy", "science"],
+    "description": "How modern brain science is providing new answers to old philosophical questions."
+  },
+  {
+    "title": "WindowSwap",
+    "url": "https://www.window-swap.com/Window",
+    "date": "2024-03-25",
+    "tags": ["website", "travel", "interactive", "whimsical"],
+    "description": "Watch views from windows around the world."
+  },
+  {
+    "title": "Think beyond romance",
+    "url": "https://goranshbharal.substack.com/p/when-youre-choosing-a-life-partner",
+    "date": "2024-03-25",
+    "tags": ["article", "relationships", "marriage", "wisdom"],
+    "description": "Practical and philosophical advice on choosing a life partner."
+  },
+  {
+    "title": "No, AI is not Making Engineers 10x as Productive",
+    "url": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
+    "date": "2024-03-25",
+    "tags": ["article", "ai", "engineering", "coding"],
+    "description": "A grounded look at AI productivity claims in software engineering."
+  },
+  {
+    "title": "Enough AI copilots! We need AI HUDs",
+    "url": "https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds",
+    "date": "2025-07-27",
+    "tags": ["article", "ai", "ux", "design"],
+    "description": "A proposal for ambient AI interfaces rather than just chat-based assistants."
+  },
+  {
+    "title": "Three Laws of Robotics",
+    "url": "https://en.wikipedia.org/wiki/Three_Laws_of_Robotics",
+    "date": "2024-03-25",
+    "tags": ["wiki", "sci-fi", "ethics", "ai"],
+    "description": "The foundational rules for robots created by Isaac Asimov."
+  },
+  {
+    "title": "A Map Of Us",
+    "url": "https://amapof.us/map",
+    "date": "2024-03-25",
+    "tags": ["website", "community", "art", "map"],
+    "description": "An artistic and collaborative mapping project."
+  },
+  {
+    "title": "What Did Men Do to Deserve This?",
+    "url": "https://www.newyorker.com/culture/the-weekend-essay/what-did-men-do-to-deserve-this",
+    "date": "2024-03-25",
+    "tags": ["essay", "culture", "gender"],
+    "description": "A cultural examination of modern masculinity and societal expectations."
+  },
+  {
+    "title": "Strategic Sociopathy",
+    "url": "https://zoescaman.substack.com/p/strategic-sociopathy",
+    "date": "2024-03-25",
+    "tags": ["article", "marketing", "business", "psychology"],
+    "description": "An analysis of how brands use specific psychological tactics."
+  },
+  {
+    "title": "The death of the public intellectual",
+    "url": "https://thedigitalmeadow.substack.com/p/the-death-of-the-public-intellectual",
+    "date": "2024-03-25",
+    "tags": ["article", "culture", "intellectualism", "internet"],
+    "description": "On the decline of the traditional public intellectual in the digital age."
+  },
+  {
+    "title": "How to write a smart internet essay",
+    "url": "https://thedigitalmeadow.substack.com/p/how-to-write-a-smart-internet-essay",
+    "date": "2024-03-25",
+    "tags": ["article", "writing", "creativity"],
+    "description": "A guide and resource list for modern online essayists."
+  },
+  {
+    "title": "Feather",
+    "url": "https://feather.computer/",
+    "date": "2024-03-25",
+    "tags": ["website", "tools", "minimalism"],
+    "description": "A minimal computing or writing environment."
+  },
+  {
+    "title": "Wordless thought",
+    "url": "https://www.henrikkarlsson.xyz/p/wordless-thought",
+    "date": "2024-03-25",
+    "tags": ["article", "philosophy", "thinking"],
+    "description": "Examining the concept of thinking without internal verbalization."
+  },
+  {
+    "title": "How to engineer luck",
+    "url": "https://essays.highagency.com/p/how-could-you-double-your-luck-in",
+    "date": "2024-03-25",
+    "tags": ["article", "agency", "strategy", "success"],
+    "description": "Strategies for increasing your surface area for serendipity."
+  },
+  {
+    "title": "equator.org",
+    "url": "https://www.equator.org/",
+    "date": "2024-03-25",
+    "tags": ["website", "research", "health"],
+    "description": "A resource for enhancing the quality and transparency of health research."
+  },
+  {
+    "title": "If You’re in Your 20’s Read This",
+    "url": "https://timdenning.substack.com/p/im-38-if-youre-in-your-20s-or-30s",
+    "date": "2024-03-25",
+    "tags": ["article", "advice", "career", "life"],
+    "description": "Reflections on what matters in early adulthood."
+  },
+  {
+    "title": "Jezebel - 2Pac ft Sade",
+    "url": "https://www.youtube.com/watch?v=azwzZIZHXzk",
+    "date": "2024-03-25",
+    "tags": ["video", "music", "hip-hop", "remix"],
+    "description": "A musical mashup/remix featuring 2Pac and Sade."
+  },
+  {
+    "title": "Doublethink scene from Detachment",
+    "url": "https://www.youtube.com/watch?v=l1s-cj-DY6Y",
+    "date": "2024-03-25",
+    "tags": ["video", "film", "philosophy", "education"],
+    "description": "A powerful cinematic scene discussing Orwellian doublethink and societal decay."
+  },
+  {
+    "title": "just business, darling",
+    "url": "https://www.youtube.com/watch?v=ZHV_Hc2Wbrw",
+    "date": "2024-03-25",
+    "tags": ["video", "music", "aesthetic"],
+    "description": "A curated music/video aesthetic piece."
+  },
+  {
+    "title": "Taste Is the New Intelligence",
+    "url": "https://www.wildbarethoughts.com/p/taste-is-the-new-intelligence",
+    "date": "2024-03-25",
+    "tags": ["article", "ai", "culture", "creativity"],
+    "description": "Argues that discernment and taste become more valuable as AI lowers the cost of creation."
+  },
+  {
+    "title": "speak so you can be found",
+    "url": "https://velvetnoise.substack.com/p/speak-so-you-can-be-found",
+    "date": "2024-03-25",
+    "tags": ["article", "connection", "writing"],
+    "description": "On the importance of sharing your true voice to find your people."
+  },
+  {
+    "title": "Willingness to look stupid",
+    "url": "https://danluu.com/look-stupid/",
+    "date": "2024-03-25",
+    "tags": ["article", "learning", "growth", "psychology"],
+    "description": "How the fear of looking foolish prevents deep learning and progress."
+  },
+  {
+    "title": "i’m sick of hearing about your boyfriend",
+    "url": "https://aslitpn.substack.com/p/im-sick-of-hearing-about-your-boyfriend",
+    "date": "2024-03-25",
+    "tags": ["article", "relationships", "culture", "social"],
+    "description": "A commentary on obsessive romantic focus in friendships."
+  },
+  {
+    "title": "On agency",
+    "url": "https://www.henrikkarlsson.xyz/p/agency",
+    "date": "2024-03-25",
+    "tags": ["article", "philosophy", "willpower", "success"],
+    "description": "A deep dive into what it means to have high agency."
+  },
+  {
+    "title": "The road to self-renewal",
+    "url": "https://gsb-courses.stanford.edu/building-innovative-brands/wp-content/uploads/sites/25/2022/04/johngardner-roadtoself-renewal2.pdf",
+    "date": "1990-01-01",
+    "tags": ["pdf", "speech", "growth", "wisdom"],
+    "description": "John Gardner's iconic speech on staying curious and self-renewing throughout life."
+  },
+  {
+    "title": "Failory’s Blog",
+    "url": "https://www.failory.com/blog",
+    "date": "2024-03-25",
+    "tags": ["website", "business", "startups", "failure"],
+    "description": "Post-mortems of failed startups and pitch deck archives."
+  },
+  {
+    "title": "High Agency Habit: Specific > General",
+    "url": "https://www.george-mack.com/content/high-agency-habit-specific-general",
+    "date": "2024-03-25",
+    "tags": ["article", "productivity", "communication"],
+    "description": "A lesson on how being specific leads to better results than being general."
+  },
+  {
+    "title": "Cognitive dissonance wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cognitive_dissonance#Examples",
+    "date": "2024-03-25",
+    "tags": ["wiki", "psychology"],
+    "description": "Wikipedia entry on the mental discomfort of holding conflicting beliefs."
+  },
+  {
+    "title": "Former CIA agent: The truth about manipulation",
+    "url": "https://www.youtube.com/watch?v=iJFIzE3i0X0",
+    "date": "2024-03-25",
+    "tags": ["video", "psychology", "strategy"],
+    "description": "Insights into influence and persuasion from an intelligence perspective."
+  },
+  {
+    "title": "The 3 cognitive scripts",
+    "url": "https://www.youtube.com/watch?v=ubMghRYqk8o",
+    "date": "2024-03-25",
+    "tags": ["video", "psychology", "mindset"],
+    "description": "Understanding the mental frameworks we use to navigate life."
+  },
+  {
+    "title": "When to quit",
+    "url": "https://bigthink.com/smart-skills/annie-duke-the-overlooked-science-behind-lifes-toughest-decisions/",
+    "date": "2024-03-25",
+    "tags": ["article", "decision-making", "psychology"],
+    "description": "Annie Duke on the science of quitting and strategic decision making."
+  },
+  {
+    "title": "The Toxoplasma Of Rage",
+    "url": "https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage/",
+    "date": "2014-12-17",
+    "tags": ["article", "sociology", "internet-culture", "memetics"],
+    "description": "A classic essay on why the internet promotes the most controversial and divisive content."
+  },
+  {
+    "title": "Hazaaron Khwaishein Aisi (2003)",
+    "url": "https://www.imdb.com/title/tt0411469/",
+    "date": "2003-01-01",
+    "tags": ["imdb", "film", "drama", "politics"],
+    "description": "A film about the social and political changes in India during the Emergency."
+  },
+  {
+    "title": "Subh-e-azaadi recitation",
+    "url": "https://www.youtube.com/watch?v=G08XzpuIKU4",
+    "date": "2024-03-25",
+    "tags": ["video", "poetry", "history", "urdu"],
+    "description": "A recitation of Faiz Ahmad Faiz's famous poem about independence."
+  },
+  {
+    "title": "Kabhi Kabhi Mere Dil Mein Khayal Aata hai",
+    "url": "https://www.youtube.com/watch?v=Vl_tcjbGNSU",
+    "date": "2024-03-25",
+    "tags": ["video", "poetry", "literature", "history"],
+    "description": "The story of Amrita Pritam and Sahir Ludhianvi's legendary relationship."
+  },
+  {
+    "title": "Amrita, imroz, sahir - in search of Imroz",
+    "url": "https://acrazymindseye.wordpress.com/2014/12/14/in-memory-pretext-of-amrita-in-search-of-imroz/",
+    "date": "2014-12-14",
+    "tags": ["blog", "biography", "romance", "literature"],
+    "description": "A tribute to the iconic and unconventional love stories of Indian literary figures."
+  },
+  {
+    "title": "Mujhey Tum Nazar Se",
+    "url": "https://www.youtube.com/watch?v=RUvMqpfNXVs",
+    "date": "2024-03-25",
+    "tags": ["video", "music", "ghazal", "classic"],
+    "description": "A classic performance by Mehdi Hassan."
+  },
+  {
+    "title": "Hey There Delilah",
+    "url": "https://www.youtube.com/watch?v=h_m-BjrxmgI",
+    "date": "2024-03-25",
+    "tags": ["video", "music", "pop"],
+    "description": "The official music video by Plain White T's."
+  },
+  {
+    "title": "Hopeless Wanderer",
+    "url": "https://www.youtube.com/watch?v=rId6PKlDXeU",
+    "date": "2024-03-25",
+    "tags": ["video", "music", "folk-rock"],
+    "description": "Music video by Mumford & Sons."
+  },
+  {
+    "title": "Afsos",
+    "url": "https://www.youtube.com/watch?v=2FhgKp_lfJQ",
+    "date": "2024-03-25",
+    "tags": ["video", "music", "indie", "hindi"],
+    "description": "Song by Anuv Jain."
+  },
+  {
+    "title": "Advice for Making Life More Whimsical",
+    "url": "https://www.feelingthemagazine.com/p/advice-for-making-life-more-whimsical",
+    "date": "2024-03-25",
+    "tags": ["article", "lifestyle", "creativity"],
+    "description": "Practical ways to inject joy and whimsy into daily existence."
+  },
+  {
+    "title": "Gurmukh Singh Ki Vasiyat ~Manto",
+    "url": "https://www.rekhta.org/stories/gurmukh-singh-ki-vasiyat-saadat-hasan-manto-stories?lang=hi",
+    "date": "2024-03-25",
+    "tags": ["story", "literature", "hindi", "history"],
+    "description": "A short story by the legendary Saadat Hasan Manto."
+  },
+  {
+    "title": "Cures for love",
+    "url": "https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog/community",
+    "date": "2024-03-25",
+    "tags": ["video", "philosophy", "relationships"],
+    "description": "Reflections on the nature and aftermath of romantic love."
+  },
+  {
+    "title": "Love Aaj Kal (2009)",
+    "url": "https://www.imdb.com/title/tt1275863/",
+    "date": "2009-01-01",
+    "tags": ["imdb", "film", "romance", "bollywood"],
+    "description": "A movie exploring love across two different generations."
+  },
+  {
+    "title": "How to Disappear",
+    "url": "https://www.theatlantic.com/ideas/archive/2025/05/extreme-personal-data-privacy-protection/682867/",
+    "date": "2025-05-01",
+    "tags": ["article", "privacy", "security", "technology"],
+    "description": "On the extreme measures of personal data protection."
+  },
+  {
+    "title": "Why Is the Tesla Cybertruck So Depressingly Ugly?",
+    "url": "https://www.honest-broker.com/p/why-is-the-tesla-cybertruck-so-depressingly",
+    "date": "2024-03-25",
+    "tags": ["article", "design", "criticism", "tech"],
+    "description": "An aesthetic and cultural critique of the Cybertruck design."
+  },
+  {
+    "title": "Land Lines",
+    "url": "https://lines.chromeexperiments.com/",
+    "date": "2024-03-25",
+    "tags": ["website", "interactive", "map", "art"],
+    "description": "An experiment that connects lines drawn by the user to satellite imagery."
+  },
+  {
+    "title": "Three lenses through which to weigh any decision",
+    "url": "https://psyche.co/ideas/there-are-three-lenses-through-which-to-weigh-any-decision",
+    "date": "2024-03-25",
+    "tags": ["article", "decision-making", "philosophy"],
+    "description": "A framework for practical and ethical decision-making."
+  },
+  {
+    "title": "A good life is inconvenient.",
+    "url": "https://israanasir.substack.com/p/a-good-life-is-inconvenient",
+    "date": "2024-03-25",
+    "tags": ["article", "philosophy", "lifestyle"],
+    "description": "On the value of friction and effort in a meaningful life."
+  },
+  {
+    "title": "Neal.fun",
+    "url": "https://neal.fun/",
+    "date": "2024-03-25",
+    "tags": ["website", "interactive", "games", "whimsical"],
+    "description": "A collection of fun, creative, and educational web projects."
+  },
+  {
+    "title": "Politics and the English Language - Orwell",
+    "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/",
+    "date": "1946-04-01",
+    "tags": ["essay", "writing", "politics", "classic"],
+    "description": "George Orwell's classic essay on the misuse of language for political ends."
+  },
+  {
+    "title": "@ZakirKhan On Parents, Relationship, Success",
+    "url": "https://www.youtube.com/watch?v=M8ICGx4p0lA",
+    "date": "2024-03-25",
+    "tags": ["video", "interview", "wisdom", "comedy"],
+    "description": "Zakir Khan discussing life, family, and his journey."
+  },
+  {
+    "title": "i carry your heart with me",
+    "url": "https://www.poetryfoundation.org/poetrymagazine/poems/49493/i-carry-your-heart-with-mei-carry-it-in",
+    "date": "1952-01-01",
+    "tags": ["poetry", "classic", "love"],
+    "description": "The famous poem by E.E. Cummings."
+  },
+  {
+    "title": "PoetiCal",
+    "url": "https://poetical.day/",
+    "date": "2024-03-25",
+    "tags": ["website", "poetry", "tools"],
+    "description": "A calendar-based poetry exploration tool."
+  },
+  {
+    "title": "Why Good Will Hunting Is Life Changing",
+    "url": "https://www.youtube.com/watch?v=b9qA9zG6nE8",
+    "date": "2024-03-25",
+    "tags": ["video", "film", "analysis", "psychology"],
+    "description": "An analysis of the psychological themes in the movie Good Will Hunting."
+  },
+  {
+    "title": "Familiarity and Belonging",
+    "url": "https://map.simonsarris.com/p/familiarity-and-belonging",
+    "date": "2024-03-25",
+    "tags": ["article", "philosophy", "community", "home"],
+    "description": "Reflections on finding roots and a sense of place."
+  },
+  {
+    "title": "Breadcrumbs",
+    "url": "https://map.simonsarris.com/p/breadcrumbs",
+    "date": "2024-03-25",
+    "tags": ["article", "philosophy", "memory"],
+    "description": "On the small signals we leave behind in our lives."
+  },
+  {
+    "title": "Good Will Hunting - Meeting his Friends scene",
+    "url": "https://www.youtube.com/watch?v=3KCL3N3_niA",
+    "date": "2024-03-25",
+    "tags": ["video", "film", "loyalty"],
+    "description": "A classic scene depicting friendship and class dynamics."
+  },
+  {
+    "title": "Paper Chor Ki Ajeeb Daastaan",
+    "url": "https://www.youtube.com/watch?v=UDAePY5Sfs4",
+    "date": "2024-03-25",
+    "tags": ["video", "storytelling", "spoken-word", "hindi"],
+    "description": "A narrative performance about a unique character."
+  },
+  {
+    "title": "Theory of Change",
+    "url": "http://www.aaronsw.com/weblog/theoryofchange",
+    "date": "2024-03-25",
+    "tags": ["blog", "activism", "strategy"],
+    "description": "Aaron Swartz on how to effectively create political and social change."
+  },
+  {
+    "title": "Political Entrepreneurs and Lunatics with Money",
+    "url": "https://crookedtimber.org/2009/05/01/political-entrepreneurs-and-lunatics-with-money/",
+    "date": "2009-05-01",
+    "tags": ["blog", "politics", "economics"],
+    "description": "A critique of wealth-driven political influence."
+  },
+  {
+    "title": "AI and the Frontier Paradox",
+    "url": "https://www.sequoiacap.com/article/ai-paradox-perspective/",
+    "date": "2024-03-25",
+    "tags": ["article", "ai", "business", "technology"],
+    "description": "Sequoia Capital's perspective on the challenges of AI innovation."
+  },
+  {
+    "title": "DEATH TO STOCK®",
+    "url": "https://www.deathtothestockphoto.com/",
+    "date": "2024-03-25",
+    "tags": ["website", "photography", "design"],
+    "description": "A resource for unconventional and authentic stock photography."
+  },
+  {
+    "title": "‘I Love You But I Don’t Think We Should Be Together’",
+    "url": "https://www.youtube.com/watch?v=JRtKwcUJ5xk",
+    "date": "2024-03-25",
+    "tags": ["video", "relationships", "psychology"],
+    "description": "School of Life exploration of complex relationship endings."
+  },
+  {
+    "title": "The deadly truth about a world built for men",
+    "url": "https://www.theguardian.com/lifeandstyle/2019/feb/23/truth-world-built-for-men-car-crashes",
+    "date": "2019-02-23",
+    "tags": ["article", "gender", "design", "safety"],
+    "description": "How gender bias in data and design endangers women."
+  },
+  {
+    "title": "Amrita’s Address - K25, Hauz Khas",
+    "url": "https://zikredilli.com/f/amritas-address-k-25-hauz-khas",
+    "date": "2024-03-25",
+    "tags": ["blog", "history", "delhi", "literature"],
+    "description": "A local history piece about the home of Amrita Pritam."
+  },
+  {
+    "title": "Chutzpah in Kashmir",
+    "url": "https://medium.com/@OmarWaraich/chutzpah-in-kashmir-6e1824506cc7",
+    "date": "2024-03-25",
+    "tags": ["article", "politics", "history", "kashmir"],
+    "description": "An analysis of political arrogance and policy in the Kashmir region."
+  },
+  {
+    "title": "In What Language Does Rain Fall Over Tormented Cities?",
+    "url": "https://raiot.in/in-what-language-does-rain-fall-over-tormented-cities/",
+    "date": "2024-03-25",
+    "tags": ["article", "poetry", "politics"],
+    "description": "A lyrical and political essay on urban existence and suffering."
+  },
+  {
+    "title": "10 Types of Odd Friendships You’re Probably Part Of",
+    "url": "https://waitbutwhy.com/2014/12/10-types-odd-friendships-youre-probably-part.html",
+    "date": "2014-12-10",
+    "tags": ["article", "psychology", "humor", "social"],
+    "description": "A humorous taxonomy of different types of social bonds."
+  },
+  {
+    "title": "Those Eyes",
+    "url": "https://www.youtube.com/watch?v=i9UDD6zyCGs",
+    "date": "2024-03-25",
+    "tags": ["video", "music", "romance"],
+    "description": "Breakup/love song by New West."
+  },
+  {
+    "title": "I am rich and have no idea what to do with my life",
+    "url": "https://vinay.sh/i-am-rich-and-have-no-idea-what-to-do-with-my-life/",
+    "date": "2024-03-25",
+    "tags": ["article", "philosophy", "lifestyle", "wealth"],
+    "description": "A reflection on the post-economic state of existence."
+  },
+  {
+    "title": "The Inner Ring",
+    "url": "https://www.lewissociety.org/innerring/",
+    "date": "1944-01-01",
+    "tags": ["essay", "sociology", "psychology", "classic"],
+    "description": "C.S. Lewis on the human desire to belong to exclusive circles."
+  },
+  {
+    "title": "Ab Uski Yaad Raat Din",
+    "url": "https://www.youtube.com/watch?v=rzIaP4Y2PMk",
+    "date": "2024-03-25",
+    "tags": ["video", "poetry", "urdu", "tribute"],
+    "description": "A tribute to the poet Ahmad Faraz."
+  },
+  {
+    "title": "Pal pal",
+    "url": "https://www.youtube.com/watch?v=AbkEmIgJMcU",
+    "date": "2024-03-25",
+    "tags": ["video", "music"],
+    "description": "Music video/audio track."
+  },
+  {
+    "title": "Milk",
+    "url": "https://fiftytwo.in/story/milk/",
+    "date": "2024-03-25",
+    "tags": ["story", "india", "culture"],
+    "description": "A long-form narrative about a fundamental commodity in India."
+  },
+  {
+    "title": "you’ve been lied to about self esteem",
+    "url": "https://www.youtube.com/watch?v=UE9iuWmI2WQ",
+    "date": "2024-03-25",
+    "tags": ["video", "psychology", "self-improvement"],
+    "description": "Critiquing modern concepts of self-esteem."
+  },
+  {
+    "title": "A fish and a bird fall in love",
+    "url": "https://www.youtube.com/watch?v=IR2N6HyOxmM",
+    "date": "2024-03-25",
+    "tags": ["video", "storytelling", "relationships"],
+    "description": "A metaphorical story about compatibility and love."
+  },
+  {
+    "title": "Cities and Ambition",
+    "url": "https://www.paulgraham.com/cities.html",
+    "date": "2008-05-01",
+    "tags": ["article", "sociology", "success", "career"],
+    "description": "Paul Graham on how the city you live in shapes your ambitions."
+  },
+  {
+    "title": "right person/wrong time",
+    "url": "https://www.youtube.com/watch?v=UXeyieU6m7A",
+    "date": "2024-03-25",
+    "tags": ["video", "philosophy", "relationships"],
+    "description": "A philosophical exploration of the timing of relationships."
+  }
+]
